@@ -26,10 +26,3 @@ class School
     end
   end
 end
-
-roster = {
-
-  7 => []
-  8
-
-}
